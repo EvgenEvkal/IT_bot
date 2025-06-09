@@ -1,0 +1,14 @@
+TOKEN = "7650664774:AAF8EsK7_9E_xhcF_lXwzWRJHJ810KtULr0"
+VERSION = "0.6"
+USERS_SYSTEM = "0.3"
+TICHER_SYSTEM = "0.3"
+ADM_SYSTEM = "0.3"
+DEV_SYSTEM = "0.3"
+LOCATE_KERNEL = "kernel/main.py"
+LOCATE_START = "kernel/run/main.py"
+DEV_ID = 1929255974
+CHANNEL_ID = -4722710663
+CLASS_LIST = ["7А" , "8А" , "9А"]
+WORKS_FOLDER = "works"
+DB_NAME = 'bot_database.db'
+DEBUG = "TB_184_API"
